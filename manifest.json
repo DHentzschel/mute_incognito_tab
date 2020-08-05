@@ -1,0 +1,6 @@
+{
+    "name": "Mute Incognito Tabs",
+    "version": "1.0",
+    "description": "This extension mutes any incognito tab by default.",
+    "manifest_version": 2
+}
