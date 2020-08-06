@@ -1,4 +1,4 @@
-# Mute Incognito Tabs
+# Mute Incognito Tab
 Hi! This simple extension is made to automatically mute any incognito tab.  
 There are no configurations to set and no complicated things to learn. *No tracking!*  
 
@@ -15,4 +15,8 @@ Since you can only install crx files when it's signed and published to the Chrom
 - Wait and click `Details` at the new installed extension
 - Click `Allow in incognito mode`
 
+If you wish to install this extension for any time the browser starts, you should create/modify a shortcut to the executable with the following argument:
+`--load-extension="path\to\repository"` 
+
 Done!
+
