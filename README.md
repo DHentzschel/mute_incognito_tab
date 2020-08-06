@@ -4,9 +4,13 @@ There are no configurations to set and no complicated things to learn. *No track
 
 ## Supported browsers
 This extension should work with any current Chromium based browser.  
-Tested on Chromium 81.0.4044.138.  
+Tested on Chromium 81.0.4044.138 and Opera 70.0.3728.95.  
 
 ## Installation
+You can install the extension in your Opera browser via the [Opera Addons store](https://addons.opera.com/en/extensions/details/mute-incognito-tab/).
+If you are using another browser such as Chromium or chrome, you can use extensions like [CrossPilot](https://chrome.google.com/webstore/detail/crosspilot/migomhggnppjdijnfkiimcpjgnhmnale) to load the mute incognito tab crx file.
+
+## Installation (manual way)
 Since you can only install crx files when it's signed and published to the Chrome Web Store against payment, you should follow these installation instructions.  
 - Download this repository to a persistent directory (either via `git clone` or using the `Download ZIP` button)
 - Open `chrome://extensions/` in a new tab (the URL might vary from browser to browser)
