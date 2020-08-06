@@ -1,6 +1,6 @@
 {
     "name": "Mute Incognito Tabs",
-    "version": "1.0",
+    "version": "1.1",
     "description": "This extension mutes any incognito tab by default.",
     "background": {
         "scripts": ["background.js"],
